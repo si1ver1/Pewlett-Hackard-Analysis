@@ -41,5 +41,5 @@ group by dept_name
 order by count desc
 ```
 
-Using the above queries we can see which deparment will have the largest impact from retirements:
+Using the above queries we can see which department will have the largest impact from retirements:
 ![retiring_departments](https://raw.githubusercontent.com/si1ver1/Pewlett-Hackard-Analysis/master/data/retiring_departments.jpg)
